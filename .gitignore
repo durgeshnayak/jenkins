@@ -1,0 +1,8 @@
+#ignore /jenkins-data/jenkins_home directory
+/jenkins-data/jenkins_home
+
+#ignore /jenkins-data/db_data directory
+/jenkins-data/db_data
+
+
+
